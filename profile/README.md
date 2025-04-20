@@ -7,6 +7,6 @@ This distro contains 3 flavors. A systemd flavor (base will be arch linux 32), r
 This is a brand new and upcoming distro aiming to revive old 32-bit computers, so contribuiting would be appreciated.
 
 # Socials
-Website: COMING SOON
+Website: https://revivelinux.nexalinux.xyz
 
 Twitter: https://x.com/revivelinux
